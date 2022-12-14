@@ -1,0 +1,68 @@
+{
+    "name": "Homework",
+    "short_name": "HW",
+    "description": "Join a virtual study group now.",
+    "start_url": "/homework project/pages/index.html",
+    "scope":".",
+    "display":"standalone",
+    "orientation":"any",
+    "background_color":"#FFF",
+    "theme_color": "#26bafa",
+    "dir":"ltr",
+    "lang":"en-US",
+    "icons": [
+        {
+            "src":"/images/homeworkicon48.png",
+            "type": "image.png",
+            "size": "48x48"
+        },
+
+        {
+            "src":"/images/homeworkicon72.png",
+            "type": "image.png",
+            "size": "72x72"
+        },
+
+        {
+            "src":"/images/homeworkicon96.png",
+            "type": "image.png",
+            "size": "96x96"
+        },
+
+        {
+            "src":"/images/homeworkicon128.png",
+            "type": "image.png",
+            "size": "128x128"
+        },
+
+        {
+            "src":"/images/homeworkicon144.png",
+            "type": "image.png",
+            "size": "144x144"
+        },
+
+        {
+            "src":"/images/homeworkicon152.png",
+            "type": "image.png",
+            "size": "152x152"
+        },
+
+        {
+            "src":"/images/homeworkicon192.png",
+            "type": "image.png",
+            "size": "192x192"
+        },
+
+        {
+            "src":"/images/homeworkicon384.png",
+            "type": "image.png",
+            "size": "384x384"
+        },
+
+        {
+            "src":"/images/homeworkicon512.png",
+            "type": "image.png",
+            "size": "512x512"
+        }
+    ]
+}
